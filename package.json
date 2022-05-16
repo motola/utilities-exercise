@@ -1,0 +1,23 @@
+{
+  "name": "utilities-exercise",
+  "version": "1.0.0",
+  "description": "A stutern project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motola/utilities-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motola/utilities-exercise/issues"
+  },
+  "homepage": "https://github.com/motola/utilities-exercise#readme"
+
+}
+
+ 
